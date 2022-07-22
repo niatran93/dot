@@ -4,9 +4,7 @@ echo ".dotfiles/" >> .gitignore
 
 git clone --bare https://github.com/niatran93/dotfiles.git $HOME/.dotfiles
 
-function dot {
-   git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME $argv;
-}
+echo "alias dot='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'" >> $HOME/.bashrc
 
 dot checkout
 if [ $? = 0 ]; then
