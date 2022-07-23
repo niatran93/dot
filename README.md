@@ -16,4 +16,4 @@ sudo apt install gh
 ```
 
 - Github Personal access tokens: https://github.com/settings/tokens
- - admin:org, write:org, read:org
+  - admin:org, write:org, read:org
