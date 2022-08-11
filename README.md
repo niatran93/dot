@@ -4,7 +4,8 @@
 
 ## Notes
 
-- Installing gh on Linux and BSD https://github.com/cli/cli/blob/trunk/docs/install_linux.md
+- Installing `github-cli`
+  - https://github.com/cli/cli/blob/trunk/docs/install_linux.md
   - on Debian, Ubuntu Linux, Raspberry Pi OS (apt)
   
 ```bash
