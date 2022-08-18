@@ -24,3 +24,7 @@ sudo apt install gh
 
 - https://github.com/settings/tokens
   - repo, workflow, admin:org
+
+## Login to Github
+
+`gh auth login`
