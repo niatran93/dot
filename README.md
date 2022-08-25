@@ -2,6 +2,11 @@
 
 `curl https://raw.githubusercontent.com/niatran93/dot/main/dot-init | sh`
 
+or
+
+`git clone https://github.com/niatran93/dot`  
+`sh dot-init`
+
 ## Installing `github-cli`
 
 - https://github.com/cli/cli/blob/trunk/docs/install_linux.md
