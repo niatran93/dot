@@ -7,6 +7,11 @@ or
 `git clone https://github.com/niatran93/dot`  
 `sh dot-init`
 
+## Guides
+
+- https://www.atlassian.com/git/tutorials/dotfiles
+- https://dotfiles.github.io/
+
 ## Installing `github-cli`
 
 - https://github.com/cli/cli/blob/trunk/docs/install_linux.md
